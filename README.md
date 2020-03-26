@@ -1,4 +1,4 @@
-[<p align="center"><img width="150" src="./app-logo.png"></p>]https://github.com/recraftrelic/recraft-attendance-app)
+<p align="center"><img width="150" src="./app-logo.png"></p>]https://github.com/recraftrelic/recraft-attendance-app)
 
 <h1 align="center">Recraft Crafter Hub Attendance App</h1>
 
@@ -7,13 +7,13 @@
 IOS Demo
 =======
 <p align="center">
-  <img width="250" src="./previews/ios-1.gif"><img width="250" src="./previews/ios-2.gif"><img width="250" src="./previews/ios-3.gif">
+  <img width="250" src="./previews/ios-1.gif">
 </p>
 
 Android Demo
 =======
 <p align="center">
-  <img width="250" src="./previews/android-1.gif"><img width="250" src="./previews/android-2.gif"><img width="250" src="./previews/android-3.gif">
+  <img width="250" src="./previews/android-1.gif">
 </p>
 
 Packages & Libraries used
