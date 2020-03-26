@@ -1,4 +1,4 @@
-<p align="center"><img width="150" src="./app-logo.png"></p>]https://github.com/recraftrelic/recraft-attendance-app)
+[<p align="center"><img width="150" src="./app-logo.png"></p>](https://github.com/recraftrelic/recraft-attendance-app/)
 
 <h1 align="center">Recraft Crafter Hub Attendance App</h1>
 
